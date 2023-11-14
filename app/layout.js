@@ -6,6 +6,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "CC Realestate",
   description: "best realestate website",
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  }
 };
 
 export default function RootLayout({ children }) {
