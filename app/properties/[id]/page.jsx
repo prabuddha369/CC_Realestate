@@ -383,7 +383,7 @@ export default function Page({ params }) {
                 key={index}
                 className="flex flex-row w-[85%] items-center m-auto px-5 py-1 custom-hover-scale-102 transform transition duration-150"
               >
-                <Carousel className='w-[60%] h-[21vh]'>
+                <Carousel className='w-[60%] h-[20vh]'>
                   <div className="image-container">
                     <Image
                       className="rounded-xl"
